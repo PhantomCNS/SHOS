@@ -29,5 +29,6 @@ A smart home system that observes the environment and controls devices
 -UART
 -I2C
 -Wi-Fi
-
+## Used Language(s):
+- MicroPython
 
