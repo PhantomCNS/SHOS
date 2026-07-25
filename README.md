@@ -24,6 +24,7 @@ A smart home system that observes the environment and controls devices
 -Buzzer
 -LEDs
 -BreadBoard
+-Blynk
 
 ## Communication methods:
 -UART
